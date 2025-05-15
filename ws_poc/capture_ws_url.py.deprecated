@@ -1,0 +1,66 @@
+from playwright.sync_api import sync_playwright
+import re
+
+pw      = sync_playwright().start()
+browser = pw.firefox.launch(headless=False)
+context = browser.new_context()              # add proxy here if you like
+page    = context.new_page()
+
+ws_urls = []
+
+def on_ws(ws):
+    ws_urls.append(ws.url)
+    print("→ Detected WS URL:", ws.url)
+
+# install listener before navigation
+page.on("websocket", on_ws)
+page.goto("https://highspell.com/")
+
+try:
+    first_ws = page.wait_for_event("websocket", timeout=50000)
+    ws_url    = first_ws.url
+    print(f"→ Captured WS URL: {ws_url}")
+except Exception:
+    print(f"⚠️ No WebSocket in 5 s – saw: {ws_urls}")
+    if not ws_urls:
+        raise RuntimeError("No WS at all!")
+    ws_url = ws_urls[0]
+print("\nUsing WebSocket URL:", ws_url)
+
+
+
+# def capture_ws_url(timeout=50000):
+#     with sync_playwright() as pw:
+#         browser = pw.firefox.launch(headless=False)
+#         context = browser.new_context()
+#         page = context.new_page()
+
+#         ws_urls = []
+#         def on_ws(ws):
+#             # record every websocket URL we see
+#             ws_urls.append(ws.url)
+#             print("→ Detected WS URL:", ws.url)
+
+#         page.on("websocket", on_ws)
+#         page.goto("https://highspell.com/")
+#         try:
+#             first_ws = page.wait_for_event("websocket", timeout=timeout)
+#             ws_url = first_ws.url
+#             print(f"→ Captured WS URL: {ws_url}")
+#         except Exception:
+#             print(f"⚠️ No WebSocket detected within {timeout} ms. Collected URLs: {ws_urls}")
+#             ws_url = None
+
+#         if ws_url:
+#             chosen = ws_url
+#         elif ws_urls:
+#             chosen = ws_urls[0]
+#         else:
+#             raise RuntimeError("No WebSocket connections detected at all!")
+
+#         print("\nUsing WebSocket URL:", chosen)
+#         return chosen
+
+# if __name__ == "__main__":
+#     url = capture_ws_url()
+#     print("Final WS URL:", url)

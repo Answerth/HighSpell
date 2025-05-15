@@ -1,0 +1,1927 @@
+[
+    {
+        "id": 1,
+        "name": "unknown item",
+        "cost": 1
+    },
+    {
+        "id": 2,
+        "name": "raw bass",
+        "cost": 5
+    },
+    {
+        "id": 3,
+        "name": "bass",
+        "cost": 8
+    },
+    {
+        "id": 4,
+        "name": "raw bluegill",
+        "cost": 8
+    },
+    {
+        "id": 5,
+        "name": "bluegill",
+        "cost": 10
+    },
+    {
+        "id": 6,
+        "name": "coins",
+        "cost": 1
+    },
+    {
+        "id": 7,
+        "name": "basic rod",
+        "cost": 20
+    },
+    {
+        "id": 8,
+        "name": "great rod",
+        "cost": 200
+    },
+    {
+        "id": 9,
+        "name": "ultra rod",
+        "cost": 1000
+    },
+    {
+        "id": 10,
+        "name": "master rod",
+        "cost": 15000
+    },
+    {
+        "id": 11,
+        "name": "raw stingray",
+        "cost": 40
+    },
+    {
+        "id": 12,
+        "name": "stingray",
+        "cost": 50
+    },
+    {
+        "id": 13,
+        "name": "raw crab",
+        "cost": 65
+    },
+    {
+        "id": 14,
+        "name": "crab",
+        "cost": 70
+    },
+    {
+        "id": 15,
+        "name": "raw clownfish",
+        "cost": 65
+    },
+    {
+        "id": 16,
+        "name": "clownfish",
+        "cost": 65
+    },
+    {
+        "id": 17,
+        "name": "raw marlin",
+        "cost": 70
+    },
+    {
+        "id": 18,
+        "name": "marlin",
+        "cost": 70
+    },
+    {
+        "id": 19,
+        "name": "raw whaleshark",
+        "cost": 75
+    },
+    {
+        "id": 20,
+        "name": "whaleshark",
+        "cost": 70
+    },
+    {
+        "id": 21,
+        "name": "raw tuna",
+        "cost": 60
+    },
+    {
+        "id": 22,
+        "name": "tuna",
+        "cost": 60
+    },
+    {
+        "id": 23,
+        "name": "raw octopus",
+        "cost": 100
+    },
+    {
+        "id": 24,
+        "name": "octopus",
+        "cost": 70
+    },
+    {
+        "id": 25,
+        "name": "raw salmon",
+        "cost": 10
+    },
+    {
+        "id": 26,
+        "name": "salmon",
+        "cost": 10
+    },
+    {
+        "id": 27,
+        "name": "raw piranha",
+        "cost": 15
+    },
+    {
+        "id": 28,
+        "name": "piranha",
+        "cost": 10
+    },
+    {
+        "id": 29,
+        "name": "raw koi",
+        "cost": 25
+    },
+    {
+        "id": 30,
+        "name": "koi",
+        "cost": 25
+    },
+    {
+        "id": 31,
+        "name": "raw turtle",
+        "cost": 40
+    },
+    {
+        "id": 32,
+        "name": "turtle",
+        "cost": 45
+    },
+    {
+        "id": 33,
+        "name": "raw carp",
+        "cost": 15
+    },
+    {
+        "id": 34,
+        "name": "carp",
+        "cost": 15
+    },
+    {
+        "id": 35,
+        "name": "raw walleye",
+        "cost": 20
+    },
+    {
+        "id": 36,
+        "name": "walleye",
+        "cost": 15
+    },
+    {
+        "id": 37,
+        "name": "raw frog",
+        "cost": 30
+    },
+    {
+        "id": 38,
+        "name": "frog",
+        "cost": 35
+    },
+    {
+        "id": 39,
+        "name": "bones",
+        "cost": 1
+    },
+    {
+        "id": 40,
+        "name": "bronze chestplate",
+        "cost": 200
+    },
+    {
+        "id": 41,
+        "name": "bronze platelegs",
+        "cost": 100
+    },
+    {
+        "id": 42,
+        "name": "steel chestplate",
+        "cost": 1600
+    },
+    {
+        "id": 43,
+        "name": "steel platelegs",
+        "cost": 800
+    },
+    {
+        "id": 44,
+        "name": "palladium chestplate",
+        "cost": 4000
+    },
+    {
+        "id": 45,
+        "name": "palladium platelegs",
+        "cost": 2000
+    },
+    {
+        "id": 46,
+        "name": "coronium chestplate",
+        "cost": 35000
+    },
+    {
+        "id": 47,
+        "name": "coronium platelegs",
+        "cost": 17500
+    },
+    {
+        "id": 48,
+        "name": "palladium ore",
+        "cost": 60
+    },
+    {
+        "id": 49,
+        "name": "copper ore",
+        "cost": 3
+    },
+    {
+        "id": 50,
+        "name": "tin ore",
+        "cost": 3
+    },
+    {
+        "id": 51,
+        "name": "coronium ore",
+        "cost": 500
+    },
+    {
+        "id": 52,
+        "name": "bronze helm",
+        "cost": 30
+    },
+    {
+        "id": 53,
+        "name": "steel helm",
+        "cost": 250
+    },
+    {
+        "id": 54,
+        "name": "palladium helm",
+        "cost": 600
+    },
+    {
+        "id": 55,
+        "name": "coronium helm",
+        "cost": 5000
+    },
+    {
+        "id": 56,
+        "name": "bronze battleaxe",
+        "cost": 100
+    },
+    {
+        "id": 57,
+        "name": "iron battleaxe",
+        "cost": 320
+    },
+    {
+        "id": 58,
+        "name": "bronze longsword",
+        "cost": 60
+    },
+    {
+        "id": 59,
+        "name": "iron longsword",
+        "cost": 200
+    },
+    {
+        "id": 60,
+        "name": "steel longsword",
+        "cost": 500
+    },
+    {
+        "id": 61,
+        "name": "palladium longsword",
+        "cost": 1200
+    },
+    {
+        "id": 62,
+        "name": "coronium longsword",
+        "cost": 10000
+    },
+    {
+        "id": 63,
+        "name": "steel battleaxe",
+        "cost": 800
+    },
+    {
+        "id": 64,
+        "name": "logs",
+        "cost": 2
+    },
+    {
+        "id": 65,
+        "name": "pine logs",
+        "cost": 5
+    },
+    {
+        "id": 66,
+        "name": "oak logs",
+        "cost": 15
+    },
+    {
+        "id": 67,
+        "name": "palm logs",
+        "cost": 30
+    },
+    {
+        "id": 68,
+        "name": "cherry logs",
+        "cost": 50
+    },
+    {
+        "id": 69,
+        "name": "money bag",
+        "cost": 1
+    },
+    {
+        "id": 70,
+        "name": "bronze bar",
+        "cost": 15
+    },
+    {
+        "id": 71,
+        "name": "silver bar",
+        "cost": 200
+    },
+    {
+        "id": 72,
+        "name": "gold bar",
+        "cost": 1000
+    },
+    {
+        "id": 73,
+        "name": "bronze pickaxe",
+        "cost": 30
+    },
+    {
+        "id": 74,
+        "name": "iron pickaxe",
+        "cost": 100
+    },
+    {
+        "id": 75,
+        "name": "steel pickaxe",
+        "cost": 250
+    },
+    {
+        "id": 76,
+        "name": "palladium pickaxe",
+        "cost": 600
+    },
+    {
+        "id": 77,
+        "name": "coronium pickaxe",
+        "cost": 5000
+    },
+    {
+        "id": 78,
+        "name": "palladium battleaxe",
+        "cost": 2000
+    },
+    {
+        "id": 79,
+        "name": "iron ore",
+        "cost": 10
+    },
+    {
+        "id": 80,
+        "name": "amethyst gem",
+        "cost": 200
+    },
+    {
+        "id": 81,
+        "name": "sapphire gem",
+        "cost": 750
+    },
+    {
+        "id": 82,
+        "name": "emerald gem",
+        "cost": 1000
+    },
+    {
+        "id": 83,
+        "name": "topaz gem",
+        "cost": 1500
+    },
+    {
+        "id": 84,
+        "name": "citrine gem",
+        "cost": 2000
+    },
+    {
+        "id": 85,
+        "name": "ruby gem",
+        "cost": 2750
+    },
+    {
+        "id": 86,
+        "name": "diamond gem",
+        "cost": 4000
+    },
+    {
+        "id": 87,
+        "name": "carbonado gem",
+        "cost": 7000
+    },
+    {
+        "id": 88,
+        "name": "uranium ore",
+        "cost": 1000
+    },
+    {
+        "id": 89,
+        "name": "silver nugget",
+        "cost": 75
+    },
+    {
+        "id": 90,
+        "name": "gold nugget",
+        "cost": 350
+    },
+    {
+        "id": 91,
+        "name": "cyclops eye",
+        "cost": 350
+    },
+    {
+        "id": 92,
+        "name": "bronze gloves",
+        "cost": 30
+    },
+    {
+        "id": 93,
+        "name": "steel gloves",
+        "cost": 250
+    },
+    {
+        "id": 94,
+        "name": "palladium gloves",
+        "cost": 600
+    },
+    {
+        "id": 95,
+        "name": "coronium gloves",
+        "cost": 5000
+    },
+    {
+        "id": 96,
+        "name": "coronium battleaxe",
+        "cost": 17500
+    },
+    {
+        "id": 97,
+        "name": "bronze great sword",
+        "cost": 150
+    },
+    {
+        "id": 98,
+        "name": "potato",
+        "cost": 2
+    },
+    {
+        "id": 99,
+        "name": "wheat",
+        "cost": 3
+    },
+    {
+        "id": 100,
+        "name": "corn",
+        "cost": 5
+    },
+    {
+        "id": 101,
+        "name": "tomato",
+        "cost": 10
+    },
+    {
+        "id": 102,
+        "name": "onion",
+        "cost": 15
+    },
+    {
+        "id": 103,
+        "name": "strawberry",
+        "cost": 20
+    },
+    {
+        "id": 104,
+        "name": "watermelon",
+        "cost": 35
+    },
+    {
+        "id": 105,
+        "name": "pumpkin",
+        "cost": 50
+    },
+    {
+        "id": 106,
+        "name": "grapes",
+        "cost": 60
+    },
+    {
+        "id": 107,
+        "name": "rose",
+        "cost": 100
+    },
+    {
+        "id": 108,
+        "name": "pinecone",
+        "cost": 2
+    },
+    {
+        "id": 109,
+        "name": "golden pinecone",
+        "cost": 1
+    },
+    {
+        "id": 110,
+        "name": "acorn",
+        "cost": 1
+    },
+    {
+        "id": 111,
+        "name": "golden acorn",
+        "cost": 1
+    },
+    {
+        "id": 112,
+        "name": "leaf",
+        "cost": 1
+    },
+    {
+        "id": 113,
+        "name": "golden leaf",
+        "cost": 1
+    },
+    {
+        "id": 114,
+        "name": "coconut",
+        "cost": 10
+    },
+    {
+        "id": 115,
+        "name": "golden coconut",
+        "cost": 1
+    },
+    {
+        "id": 116,
+        "name": "cherry blossom",
+        "cost": 15
+    },
+    {
+        "id": 117,
+        "name": "golden blossom",
+        "cost": 1
+    },
+    {
+        "id": 118,
+        "name": "iron chestplate",
+        "cost": 640
+    },
+    {
+        "id": 119,
+        "name": "iron platelegs",
+        "cost": 320
+    },
+    {
+        "id": 120,
+        "name": "iron helm",
+        "cost": 100
+    },
+    {
+        "id": 121,
+        "name": "iron gloves",
+        "cost": 100
+    },
+    {
+        "id": 122,
+        "name": "bronze full helm",
+        "cost": 60
+    },
+    {
+        "id": 123,
+        "name": "steel full helm",
+        "cost": 250
+    },
+    {
+        "id": 124,
+        "name": "palladium full helm",
+        "cost": 1200
+    },
+    {
+        "id": 125,
+        "name": "coronium full helm",
+        "cost": 10000
+    },
+    {
+        "id": 126,
+        "name": "iron great sword",
+        "cost": 480
+    },
+    {
+        "id": 127,
+        "name": "steel great sword",
+        "cost": 1200
+    },
+    {
+        "id": 128,
+        "name": "iron full helm",
+        "cost": 200
+    },
+    {
+        "id": 129,
+        "name": "red cape",
+        "cost": 20
+    },
+    {
+        "id": 130,
+        "name": "blue cape",
+        "cost": 20
+    },
+    {
+        "id": 131,
+        "name": "green cape",
+        "cost": 20
+    },
+    {
+        "id": 132,
+        "name": "black cape",
+        "cost": 20
+    },
+    {
+        "id": 133,
+        "name": "orange cape",
+        "cost": 20
+    },
+    {
+        "id": 134,
+        "name": "yellow cape",
+        "cost": 20
+    },
+    {
+        "id": 135,
+        "name": "purple cape",
+        "cost": 20
+    },
+    {
+        "id": 136,
+        "name": "bandit mask",
+        "cost": 15
+    },
+    {
+        "id": 137,
+        "name": "leather gloves",
+        "cost": 20
+    },
+    {
+        "id": 138,
+        "name": "golden full helm",
+        "cost": 10000
+    },
+    {
+        "id": 139,
+        "name": "golden chestplate",
+        "cost": 35000
+    },
+    {
+        "id": 140,
+        "name": "golden platelegs",
+        "cost": 35000
+    },
+    {
+        "id": 141,
+        "name": "golden helm",
+        "cost": 5000
+    },
+    {
+        "id": 142,
+        "name": "coal",
+        "cost": 25
+    },
+    {
+        "id": 143,
+        "name": "steel bar",
+        "cost": 125
+    },
+    {
+        "id": 144,
+        "name": "palladium bar",
+        "cost": 300
+    },
+    {
+        "id": 145,
+        "name": "coronium bar",
+        "cost": 2500
+    },
+    {
+        "id": 146,
+        "name": "palladium great sword",
+        "cost": 3000
+    },
+    {
+        "id": 147,
+        "name": "coronium great sword",
+        "cost": 26250
+    },
+    {
+        "id": 148,
+        "name": "iron bar",
+        "cost": 50
+    },
+    {
+        "id": 149,
+        "name": "scroll",
+        "cost": 1
+    },
+    {
+        "id": 150,
+        "name": "pine scroll",
+        "cost": 3
+    },
+    {
+        "id": 151,
+        "name": "oak scroll",
+        "cost": 10
+    },
+    {
+        "id": 152,
+        "name": "palm scroll",
+        "cost": 15
+    },
+    {
+        "id": 153,
+        "name": "sakura scroll",
+        "cost": 30
+    },
+    {
+        "id": 154,
+        "name": "chisel",
+        "cost": 5
+    },
+    {
+        "id": 155,
+        "name": "hammer",
+        "cost": 5
+    },
+    {
+        "id": 156,
+        "name": "empty glass",
+        "cost": 1
+    },
+    {
+        "id": 157,
+        "name": "glass of water",
+        "cost": 2
+    },
+    {
+        "id": 158,
+        "name": "unheated mash",
+        "cost": 3
+    },
+    {
+        "id": 159,
+        "name": "beer",
+        "cost": 5
+    },
+    {
+        "id": 160,
+        "name": "half glass of beer",
+        "cost": 2
+    },
+    {
+        "id": 161,
+        "name": "mt. tan dew",
+        "cost": 10
+    },
+    {
+        "id": 162,
+        "name": "unheated dew mash",
+        "cost": 10
+    },
+    {
+        "id": 163,
+        "name": "dew beer",
+        "cost": 20
+    },
+    {
+        "id": 164,
+        "name": "half glass of dew beer",
+        "cost": 10
+    },
+    {
+        "id": 165,
+        "name": "giant's milk",
+        "cost": 15
+    },
+    {
+        "id": 166,
+        "name": "half glass of giant's milk",
+        "cost": 7
+    },
+    {
+        "id": 167,
+        "name": "pestle and mortar",
+        "cost": 5
+    },
+    {
+        "id": 168,
+        "name": "bone meal",
+        "cost": 1
+    },
+    {
+        "id": 169,
+        "name": "calcium brew",
+        "cost": 20
+    },
+    {
+        "id": 170,
+        "name": "half glass of calcium brew",
+        "cost": 10
+    },
+    {
+        "id": 171,
+        "name": "silver full helm",
+        "cost": 10000
+    },
+    {
+        "id": 172,
+        "name": "silver chestplate",
+        "cost": 35000
+    },
+    {
+        "id": 173,
+        "name": "silver platelegs",
+        "cost": 17500
+    },
+    {
+        "id": 174,
+        "name": "silver helm",
+        "cost": 5000
+    },
+    {
+        "id": 175,
+        "name": "fire scroll",
+        "cost": 3
+    },
+    {
+        "id": 176,
+        "name": "water scroll",
+        "cost": 3
+    },
+    {
+        "id": 177,
+        "name": "nature scroll",
+        "cost": 3
+    },
+    {
+        "id": 178,
+        "name": "fury scroll",
+        "cost": 4
+    },
+    {
+        "id": 179,
+        "name": "rage scroll",
+        "cost": 5
+    },
+    {
+        "id": 180,
+        "name": "energy scroll",
+        "cost": 6
+    },
+    {
+        "id": 181,
+        "name": "warp scroll",
+        "cost": 10
+    },
+    {
+        "id": 182,
+        "name": "lucky logs",
+        "cost": 100
+    },
+    {
+        "id": 183,
+        "name": "lucky scroll",
+        "cost": 50
+    },
+    {
+        "id": 184,
+        "name": "alchemy scroll",
+        "cost": 8
+    },
+    {
+        "id": 185,
+        "name": "bronze shield",
+        "cost": 100
+    },
+    {
+        "id": 186,
+        "name": "steel shield",
+        "cost": 800
+    },
+    {
+        "id": 187,
+        "name": "palladium shield",
+        "cost": 2000
+    },
+    {
+        "id": 188,
+        "name": "coronium shield",
+        "cost": 17500
+    },
+    {
+        "id": 189,
+        "name": "flour",
+        "cost": 1
+    },
+    {
+        "id": 190,
+        "name": "giant bones",
+        "cost": 5
+    },
+    {
+        "id": 191,
+        "name": "iron shield",
+        "cost": 320
+    },
+    {
+        "id": 192,
+        "name": "golden shield",
+        "cost": 17500
+    },
+    {
+        "id": 193,
+        "name": "silver shield",
+        "cost": 17500
+    },
+    {
+        "id": 194,
+        "name": "amethyst necklace",
+        "cost": 550
+    },
+    {
+        "id": 195,
+        "name": "sapphire necklace",
+        "cost": 600
+    },
+    {
+        "id": 196,
+        "name": "emerald necklace",
+        "cost": 800
+    },
+    {
+        "id": 197,
+        "name": "topaz necklace",
+        "cost": 900
+    },
+    {
+        "id": 198,
+        "name": "citrine necklace",
+        "cost": 1500
+    },
+    {
+        "id": 199,
+        "name": "ruby necklace",
+        "cost": 8500
+    },
+    {
+        "id": 200,
+        "name": "diamond necklace",
+        "cost": 20000
+    },
+    {
+        "id": 201,
+        "name": "robe top",
+        "cost": 10
+    },
+    {
+        "id": 202,
+        "name": "robe bottoms",
+        "cost": 10
+    },
+    {
+        "id": 203,
+        "name": "wizard's top",
+        "cost": 20
+    },
+    {
+        "id": 204,
+        "name": "wizard's bottoms",
+        "cost": 20
+    },
+    {
+        "id": 205,
+        "name": "sage's top",
+        "cost": 20
+    },
+    {
+        "id": 206,
+        "name": "sage's bottoms",
+        "cost": 20
+    },
+    {
+        "id": 207,
+        "name": "wizard's hat",
+        "cost": 20
+    },
+    {
+        "id": 208,
+        "name": "witch's top",
+        "cost": 20
+    },
+    {
+        "id": 209,
+        "name": "witch's bottoms",
+        "cost": 20
+    },
+    {
+        "id": 210,
+        "name": "witch's hat",
+        "cost": 20
+    },
+    {
+        "id": 211,
+        "name": "blue wizard's top",
+        "cost": 100
+    },
+    {
+        "id": 212,
+        "name": "blue wizard's bottoms",
+        "cost": 75
+    },
+    {
+        "id": 213,
+        "name": "blue wizard's hat",
+        "cost": 50
+    },
+    {
+        "id": 214,
+        "name": "gnome's hat",
+        "cost": 5
+    },
+    {
+        "id": 215,
+        "name": "giant gnome's hat",
+        "cost": 15
+    },
+    {
+        "id": 216,
+        "name": "giant gnome's top",
+        "cost": 20
+    },
+    {
+        "id": 217,
+        "name": "blood robe top",
+        "cost": 300
+    },
+    {
+        "id": 218,
+        "name": "blood robe bottoms",
+        "cost": 225
+    },
+    {
+        "id": 219,
+        "name": "blood hat",
+        "cost": 150
+    },
+    {
+        "id": 220,
+        "name": "scallop shell",
+        "cost": 10
+    },
+    {
+        "id": 221,
+        "name": "sand dollar",
+        "cost": 100
+    },
+    {
+        "id": 222,
+        "name": "conch",
+        "cost": 500
+    },
+    {
+        "id": 223,
+        "name": "seaweed",
+        "cost": 1
+    },
+    {
+        "id": 224,
+        "name": "starfish",
+        "cost": 50
+    },
+    {
+        "id": 225,
+        "name": "driftwood",
+        "cost": 1
+    },
+    {
+        "id": 226,
+        "name": "seashell shores bank key",
+        "cost": 1
+    },
+    {
+        "id": 227,
+        "name": "pirate's key",
+        "cost": 1
+    },
+    {
+        "id": 228,
+        "name": "elf ears",
+        "cost": 100
+    },
+    {
+        "id": 229,
+        "name": "sewer key",
+        "cost": 1
+    },
+    {
+        "id": 230,
+        "name": "trumpet",
+        "cost": 1
+    },
+    {
+        "id": 231,
+        "name": "leprechaun sketch",
+        "cost": 1
+    },
+    {
+        "id": 232,
+        "name": "tattered skirt",
+        "cost": 5
+    },
+    {
+        "id": 233,
+        "name": "raw beef",
+        "cost": 3
+    },
+    {
+        "id": 234,
+        "name": "steak",
+        "cost": 5
+    },
+    {
+        "id": 235,
+        "name": "rat tail",
+        "cost": 1
+    },
+    {
+        "id": 236,
+        "name": "squirrel pelt",
+        "cost": 3
+    },
+    {
+        "id": 237,
+        "name": "raw chicken",
+        "cost": 3
+    },
+    {
+        "id": 238,
+        "name": "chicken",
+        "cost": 5
+    },
+    {
+        "id": 239,
+        "name": "raw rodent meat",
+        "cost": 1
+    },
+    {
+        "id": 240,
+        "name": "rodent meat",
+        "cost": 2
+    },
+    {
+        "id": 241,
+        "name": "helmet of melee",
+        "cost": 100000
+    },
+    {
+        "id": 242,
+        "name": "barbarian helm",
+        "cost": 500
+    },
+    {
+        "id": 243,
+        "name": "celadon chestplate",
+        "cost": 70000
+    },
+    {
+        "id": 244,
+        "name": "celadon platelegs",
+        "cost": 35000
+    },
+    {
+        "id": 245,
+        "name": "celadon pickaxe",
+        "cost": 10000
+    },
+    {
+        "id": 246,
+        "name": "celadon gloves",
+        "cost": 10000
+    },
+    {
+        "id": 247,
+        "name": "celadon full helm",
+        "cost": 20000
+    },
+    {
+        "id": 248,
+        "name": "celadon shield",
+        "cost": 35000
+    },
+    {
+        "id": 249,
+        "name": "celadon longsword",
+        "cost": 20000
+    },
+    {
+        "id": 250,
+        "name": "celadon battleaxe",
+        "cost": 35000
+    },
+    {
+        "id": 251,
+        "name": "celadon great sword",
+        "cost": 52500
+    },
+    {
+        "id": 252,
+        "name": "celadium ore",
+        "cost": 1000
+    },
+    {
+        "id": 253,
+        "name": "celadium bar",
+        "cost": 5000
+    },
+    {
+        "id": 254,
+        "name": "gold warrior helm",
+        "cost": 30000
+    },
+    {
+        "id": 255,
+        "name": "silver warrior helm",
+        "cost": 4000
+    },
+    {
+        "id": 256,
+        "name": "silver gloves",
+        "cost": 5000
+    },
+    {
+        "id": 257,
+        "name": "golden gloves",
+        "cost": 5000
+    },
+    {
+        "id": 258,
+        "name": "celadon helm",
+        "cost": 10000
+    },
+    {
+        "id": 259,
+        "name": "vial",
+        "cost": 1
+    },
+    {
+        "id": 260,
+        "name": "vial of water",
+        "cost": 1
+    },
+    {
+        "id": 261,
+        "name": "potion of accuracy (2)",
+        "cost": 20
+    },
+    {
+        "id": 262,
+        "name": "potion of accuracy (1)",
+        "cost": 10
+    },
+    {
+        "id": 263,
+        "name": "potion of defense (2)",
+        "cost": 20
+    },
+    {
+        "id": 264,
+        "name": "potion of defense (1)",
+        "cost": 10
+    },
+    {
+        "id": 265,
+        "name": "potion of strength (2)",
+        "cost": 20
+    },
+    {
+        "id": 266,
+        "name": "potion of strength (1)",
+        "cost": 10
+    },
+    {
+        "id": 267,
+        "name": "potion of fishing (2)",
+        "cost": 20
+    },
+    {
+        "id": 268,
+        "name": "potion of fishing (1)",
+        "cost": 10
+    },
+    {
+        "id": 269,
+        "name": "potion of smithing (2)",
+        "cost": 20
+    },
+    {
+        "id": 270,
+        "name": "potion of smithing (1)",
+        "cost": 10
+    },
+    {
+        "id": 271,
+        "name": "potion of mining (2)",
+        "cost": 20
+    },
+    {
+        "id": 272,
+        "name": "potion of mining (1)",
+        "cost": 10
+    },
+    {
+        "id": 273,
+        "name": "potion of restoration (2)",
+        "cost": 20
+    },
+    {
+        "id": 274,
+        "name": "potion of restoration (1)",
+        "cost": 10
+    },
+    {
+        "id": 275,
+        "name": "potion of forestry (2)",
+        "cost": 20
+    },
+    {
+        "id": 276,
+        "name": "potion of forestry (1)",
+        "cost": 10
+    },
+    {
+        "id": 277,
+        "name": "fiji root",
+        "cost": 5
+    },
+    {
+        "id": 278,
+        "name": "tonga root",
+        "cost": 5
+    },
+    {
+        "id": 279,
+        "name": "nauru root",
+        "cost": 5
+    },
+    {
+        "id": 280,
+        "name": "maui root",
+        "cost": 5
+    },
+    {
+        "id": 281,
+        "name": "vanua root",
+        "cost": 5
+    },
+    {
+        "id": 282,
+        "name": "samoan root",
+        "cost": 5
+    },
+    {
+        "id": 283,
+        "name": "aruba root",
+        "cost": 5
+    },
+    {
+        "id": 284,
+        "name": "grenada root",
+        "cost": 5
+    },
+    {
+        "id": 285,
+        "name": "potion of mischief (2)",
+        "cost": 20
+    },
+    {
+        "id": 286,
+        "name": "potion of mischief (1)",
+        "cost": 10
+    },
+    {
+        "id": 287,
+        "name": "carrot",
+        "cost": 5
+    },
+    {
+        "id": 288,
+        "name": "sardinian root",
+        "cost": 5
+    },
+    {
+        "id": 289,
+        "name": "baked potato",
+        "cost": 3
+    },
+    {
+        "id": 290,
+        "name": "grilled corn",
+        "cost": 5
+    },
+    {
+        "id": 291,
+        "name": "potion of magic (2)",
+        "cost": 20
+    },
+    {
+        "id": 292,
+        "name": "potion of magic (1)",
+        "cost": 10
+    },
+    {
+        "id": 293,
+        "name": "mariana root",
+        "cost": 5
+    },
+    {
+        "id": 294,
+        "name": "red mushroom",
+        "cost": 5
+    },
+    {
+        "id": 295,
+        "name": "leprechaun hat",
+        "cost": 1
+    },
+    {
+        "id": 296,
+        "name": "gnome jail key",
+        "cost": 1
+    },
+    {
+        "id": 297,
+        "name": "leprechaun flute",
+        "cost": 1
+    },
+    {
+        "id": 298,
+        "name": "rough amethyst",
+        "cost": 100
+    },
+    {
+        "id": 299,
+        "name": "rough sapphire",
+        "cost": 375
+    },
+    {
+        "id": 300,
+        "name": "rough emerald",
+        "cost": 500
+    },
+    {
+        "id": 301,
+        "name": "rough topaz",
+        "cost": 750
+    },
+    {
+        "id": 302,
+        "name": "rough citrine",
+        "cost": 1000
+    },
+    {
+        "id": 303,
+        "name": "rough ruby",
+        "cost": 1375
+    },
+    {
+        "id": 304,
+        "name": "rough diamond",
+        "cost": 2000
+    },
+    {
+        "id": 305,
+        "name": "rough carbonado",
+        "cost": 3500
+    },
+    {
+        "id": 306,
+        "name": "chef's hat",
+        "cost": 20
+    },
+    {
+        "id": 307,
+        "name": "blood hood",
+        "cost": 800
+    },
+    {
+        "id": 308,
+        "name": "old hood",
+        "cost": 30
+    },
+    {
+        "id": 309,
+        "name": "dark hood",
+        "cost": 30
+    },
+    {
+        "id": 310,
+        "name": "druid's hood",
+        "cost": 30
+    },
+    {
+        "id": 311,
+        "name": "helmet of ranging",
+        "cost": 100000
+    },
+    {
+        "id": 312,
+        "name": "helmet of magic",
+        "cost": 100000
+    },
+    {
+        "id": 313,
+        "name": "armoury key",
+        "cost": 1
+    },
+    {
+        "id": 314,
+        "name": "bronze hatchet",
+        "cost": 30
+    },
+    {
+        "id": 315,
+        "name": "iron hatchet",
+        "cost": 100
+    },
+    {
+        "id": 316,
+        "name": "steel hatchet",
+        "cost": 250
+    },
+    {
+        "id": 317,
+        "name": "palladium hatchet",
+        "cost": 600
+    },
+    {
+        "id": 318,
+        "name": "coronium hatchet",
+        "cost": 5000
+    },
+    {
+        "id": 319,
+        "name": "celadon hatchet",
+        "cost": 10000
+    },
+    {
+        "id": 320,
+        "name": "red headband",
+        "cost": 100
+    },
+    {
+        "id": 321,
+        "name": "raw game meat",
+        "cost": 5
+    },
+    {
+        "id": 322,
+        "name": "game meat",
+        "cost": 10
+    },
+    {
+        "id": 323,
+        "name": "brown bear paw",
+        "cost": 100
+    },
+    {
+        "id": 324,
+        "name": "black bear paw",
+        "cost": 150
+    },
+    {
+        "id": 325,
+        "name": "burnt food",
+        "cost": 1
+    },
+    {
+        "id": 326,
+        "name": "arrow shafts",
+        "cost": 1
+    },
+    {
+        "id": 327,
+        "name": "headless arrows",
+        "cost": 2
+    },
+    {
+        "id": 328,
+        "name": "bronze arrowheads",
+        "cost": 3
+    },
+    {
+        "id": 329,
+        "name": "iron arrowheads",
+        "cost": 5
+    },
+    {
+        "id": 330,
+        "name": "steel arrowheads",
+        "cost": 10
+    },
+    {
+        "id": 331,
+        "name": "palladium arrowheads",
+        "cost": 25
+    },
+    {
+        "id": 332,
+        "name": "coronium arrowheads",
+        "cost": 65
+    },
+    {
+        "id": 333,
+        "name": "celadon arrowheads",
+        "cost": 125
+    },
+    {
+        "id": 334,
+        "name": "bronze arrows",
+        "cost": 3
+    },
+    {
+        "id": 335,
+        "name": "iron arrows",
+        "cost": 7
+    },
+    {
+        "id": 336,
+        "name": "steel arrows",
+        "cost": 15
+    },
+    {
+        "id": 337,
+        "name": "palladium arrows",
+        "cost": 40
+    },
+    {
+        "id": 338,
+        "name": "coronium arrows",
+        "cost": 85
+    },
+    {
+        "id": 339,
+        "name": "celadon arrows",
+        "cost": 150
+    },
+    {
+        "id": 340,
+        "name": "feathers",
+        "cost": 1
+    },
+    {
+        "id": 341,
+        "name": "wooden bow",
+        "cost": 30
+    },
+    {
+        "id": 342,
+        "name": "pine bow",
+        "cost": 75
+    },
+    {
+        "id": 343,
+        "name": "oak bow",
+        "cost": 150
+    },
+    {
+        "id": 344,
+        "name": "palm bow",
+        "cost": 375
+    },
+    {
+        "id": 345,
+        "name": "cherry bow",
+        "cost": 750
+    },
+    {
+        "id": 346,
+        "name": "knife",
+        "cost": 5
+    },
+    {
+        "id": 347,
+        "name": "unstrung bow",
+        "cost": 15
+    },
+    {
+        "id": 348,
+        "name": "unstrung pine bow",
+        "cost": 35
+    },
+    {
+        "id": 349,
+        "name": "unstrung oak bow",
+        "cost": 75
+    },
+    {
+        "id": 350,
+        "name": "unstrung palm bow",
+        "cost": 190
+    },
+    {
+        "id": 351,
+        "name": "unstrung cherry bow",
+        "cost": 375
+    },
+    {
+        "id": 352,
+        "name": "string",
+        "cost": 1
+    },
+    {
+        "id": 353,
+        "name": "wizard logs",
+        "cost": 150
+    },
+    {
+        "id": 354,
+        "name": "wizard scroll",
+        "cost": 75
+    },
+    {
+        "id": 355,
+        "name": "magic scroll",
+        "cost": 15
+    },
+    {
+        "id": 356,
+        "name": "deadwood logs",
+        "cost": 175
+    },
+    {
+        "id": 357,
+        "name": "deadwood scroll",
+        "cost": 90
+    },
+    {
+        "id": 358,
+        "name": "blood scroll",
+        "cost": 20
+    },
+    {
+        "id": 359,
+        "name": "unstrung wizard's bow",
+        "cost": 400
+    },
+    {
+        "id": 360,
+        "name": "wizard's bow",
+        "cost": 800
+    },
+    {
+        "id": 361,
+        "name": "unstrung deadwood bow",
+        "cost": 500
+    },
+    {
+        "id": 362,
+        "name": "deadwood bow",
+        "cost": 1000
+    },
+    {
+        "id": 363,
+        "name": "staff",
+        "cost": 25
+    },
+    {
+        "id": 364,
+        "name": "bronze scimitar",
+        "cost": 54
+    },
+    {
+        "id": 365,
+        "name": "iron scimitar",
+        "cost": 180
+    },
+    {
+        "id": 366,
+        "name": "steel scimitar",
+        "cost": 450
+    },
+    {
+        "id": 367,
+        "name": "palladium scimitar",
+        "cost": 1080
+    },
+    {
+        "id": 368,
+        "name": "coronium scimitar",
+        "cost": 9000
+    },
+    {
+        "id": 369,
+        "name": "celadon scimitar",
+        "cost": 18000
+    },
+    {
+        "id": 370,
+        "name": "bronze chainmail body",
+        "cost": 100
+    },
+    {
+        "id": 371,
+        "name": "iron chainmail body",
+        "cost": 320
+    },
+    {
+        "id": 372,
+        "name": "steel chainmail body",
+        "cost": 800
+    },
+    {
+        "id": 373,
+        "name": "palladium chainmail body",
+        "cost": 2000
+    },
+    {
+        "id": 374,
+        "name": "coronium chainmail body",
+        "cost": 17500
+    },
+    {
+        "id": 375,
+        "name": "silver chainmail body",
+        "cost": 17500
+    },
+    {
+        "id": 376,
+        "name": "golden chainmail body",
+        "cost": 35000
+    },
+    {
+        "id": 377,
+        "name": "celadon chainmail body",
+        "cost": 35000
+    },
+    {
+        "id": 378,
+        "name": "flax",
+        "cost": 3
+    },
+    {
+        "id": 379,
+        "name": "mansion key",
+        "cost": 1
+    },
+    {
+        "id": 380,
+        "name": "monk's necklace",
+        "cost": 200
+    },
+    {
+        "id": 381,
+        "name": "pirate's bandana",
+        "cost": 100
+    },
+    {
+        "id": 382,
+        "name": "kitchen key",
+        "cost": 1
+    },
+    {
+        "id": 383,
+        "name": "pig iron bar",
+        "cost": 5
+    },
+    {
+        "id": 384,
+        "name": "necklace mould",
+        "cost": 15
+    },
+    {
+        "id": 385,
+        "name": "monk's necklace mould",
+        "cost": 25
+    }
+]

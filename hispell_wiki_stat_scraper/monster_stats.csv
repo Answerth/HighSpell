@@ -1,0 +1,27 @@
+name,level,hitpoints,accuracy,strength,defence,magic,range,aggroRadius,respawn_time,isAlwaysAggro
+Giant,43,50,35,40,25,2,2,7,100,False
+Brute,48,50,16,45,30,2,2,24,50,True
+Dragon Hatchling,52,50,41,46,90,2,2,7,50,False
+Forest Warrior,49,52,55,65,60,2,2,8,100,False
+Isradore's Rat,56,55,46,41,36,2,2,24,100,True
+Dark Monk,46,55,50,45,15,2,2,7,50,False
+Giant Skeleton,60,55,50,70,60,2,2,7,50,False
+Skeletal Dwarf,44,56,42,48,57,2,2,7,50,False
+Giant Hell Rat,66,60,46,56,36,2,2,8,100,False
+Forest Giant,58,60,65,70,46,2,2,8,100,False
+Knight,60,65,55,65,75,2,2,0,75,False
+Cursed Goblin,64,65,60,75,35,2,2,8,50,True
+Frost Warrior,59,65,75,85,65,2,2,8,100,False
+Minotaur,80,80,66,71,71,2,2,8,100,False
+Frost Giant,73,80,85,100,56,2,2,8,100,False
+Hell Warrior,77,80,85,95,90,2,2,8,100,False
+Plains Dragon,84,85,71,71,80,71,2,8,50,False
+Corrupt Minotaur,97,95,105,110,81,2,2,8,100,False
+Suit of Armour,87,95,125,135,185,2,2,6,150,False
+Elder Knight,102,95,115,145,150,2,2,0,200,False
+Water Dragon,109,100,86,91,150,81,2,8,50,False
+Hell Giant,107,110,115,140,120,2,2,8,100,False
+Isradore's Dragon,103,110,76,86,150,71,2,24,100,True
+Cave Bear,119,115,101,106,106,2,2,8,75,True
+Fire Dragon,131,130,111,111,195,91,2,8,50,False
+Damogui,250,250,235,260,250,250,2,16,200,True
